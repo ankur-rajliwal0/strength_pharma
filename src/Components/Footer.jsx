@@ -32,13 +32,13 @@ function Footer() {
           <div>
             <h4 className="text-xl font-semibold mb-4">Contact</h4>
             <ul className="text-gray-300 space-y-2 text-sm">
-              <li>📍 123 Health St, Vet City, India</li>
-              <li>📞 +91 98765 43210</li>
-              <li>✉️ contact@strengthpharmavets.com</li>
+              <li>📍 15, Padav Marg , Hisar (125001)</li>
+              <li>📞 +91 74969-96311</li>
+              <li>✉️ strengthpharma175@gmail.com </li>
             </ul>
             <div className="mt-4 flex space-x-4">
               {/* Icons can be replaced with real SVGs or font awesome */}
-              <a href="#" className="hover:text-[#00A67E]">🅾</a>
+              <a href="https://www.instagram.com/strengthlab_/" className="hover:text-[#00A67E]">🅾</a>
               <a href="#" className="hover:text-[#00A67E]">ⓕ</a>
               <a href="#" className="hover:text-[#00A67E]">𝕏</a>
               <a href="#" className="hover:text-[#00A67E]">🔗</a>

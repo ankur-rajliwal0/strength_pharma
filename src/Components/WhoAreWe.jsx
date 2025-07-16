@@ -3,8 +3,8 @@ import img from "../Assets/images/11428894.png"
 
 function WhoAreWe() {
   return (
-    <section className='mt-[150px]'>
-      <div className="container">
+    <section className=''>
+      <div className="container my-[250px]">
         <h1 className='text-[55px] font-jost font-bold'>Who Are We</h1>
         <div className="flex flex-wrap flex-row mx-[-12px] items-cente ">
             <div className="w-6/12 px-3 max-lg:w-full">

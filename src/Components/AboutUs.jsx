@@ -1,7 +1,7 @@
 import cowImg from "../Assets/images/cows-green-field-blue-sky.jpg"
 function AboutUs() {
   return (
-    <section className="bg-gradient-to-br from-[#E1FFF6] to-white py-20 relative overflow-hidden">
+    <section className="bg-gradient-to-br from-[#E1FFF6] to-white py-28 relative overflow-hidden">
       <div className="container mx-auto px-6 lg:px-12">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           
